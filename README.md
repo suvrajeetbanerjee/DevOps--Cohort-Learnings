@@ -27,6 +27,7 @@
 <!--
 - 🔗[**Blog Link — :**]()
 - 🔗[**Linkedin Post — :**]()
+- 🔗[**Linkedin Post 2 — :**]()
 - 🔗[**X-Post!**]()
 - 🔗[**Assignment Documentation:**]()
 - 🔗[**Project GitHub Repo Link:**]()
