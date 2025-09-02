@@ -7,7 +7,7 @@
 - 🔗[**Blog Link:**](https://dev.to/suvrajeet/what-fuels-the-internet-prerequisites-week-0-49lj)
 - 🔗[**Linkedin Post:**](https://www.linkedin.com/feed/update/urn:li:activity:7362239347128983552?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7362239347128983552%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BBiI4Zz5ZQuq%2BZBO8opkeRA%3D%3D)
 - 🔗[**X-Post Original!**](https://x.com/_suvrajeet_/status/1956486441325773309)
-- 🔗[**Assignment Documentation:**](https://drive.google.com/file/d/1jPRrGL-GMYwKteu4qUVTJBKl0hWjT69-/view?usp=drive_link)
+- 🔗[**Assignment Documentation**](https://drive.google.com/file/d/1jPRrGL-GMYwKteu4qUVTJBKl0hWjT69-/view?usp=drive_link)
 - 🔗[**X-Post Updated...**](https://x.com/_suvrajeet_/status/1957510376859262987)
 - 🔗[**Updated Assignment Documentation**](https://drive.google.com/file/d/1nsYUlsMJXXqEXbQFzp0ZfMhGVYOU3uqO/view)
 
@@ -19,16 +19,19 @@
 - 🔗[**Linkedin Post — React App:**](https://www.linkedin.com/feed/update/urn:li:activity:7365435839620845568?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQ2uP0BuTmXybq0ROJb7HkeEtoB7JBt9B4)
 - 🔗[**Linkedin Post — Linux For DevOps | Week-1:**](https://www.linkedin.com/feed/update/urn:li:activity:7364733919981686784/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC2L6ZcBR9Gx6d5yUzt9sZUfWRjki7w1oHI)
 - 🔗[**X-Post!**](https://x.com/_suvrajeet_/status/1959285313634697281)
-- 🔗[**Assignment Documentation:**](https://drive.google.com/file/d/1w5VpeiyR_aEY8_wep2w8kU2-qDNhDnpn/view?usp=drive_link)
+- 🔗[**Assignment Documentation**](https://drive.google.com/file/d/1w5VpeiyR_aEY8_wep2w8kU2-qDNhDnpn/view?usp=drive_link)
 
 
 ### ③ Week-2 || Git & GitHub
 
-<!--
-- 🔗[**Blog Link — :**]()
-- 🔗[**Linkedin Post — :**]()
-- 🔗[**Linkedin Post 2 — :**]()
-- 🔗[**X-Post!**]()
-- 🔗[**Assignment Documentation:**]()
-- 🔗[**Project GitHub Repo Link:**]()
--->
+
+- 🔗[**Blog Link — 🎭 Git & GitHub: A Developer's Time Travel Superpower : Week2 🌊**](https://lnkd.in/g95P4uAD)
+- 🔗[**Linkedin Post — Git Mastery: Tracking & Staging**](https://lnkd.in/gTFdfiHU)
+- 🔗[**Linkedin Post 2 — Git & Github : Week-2**](https://www.linkedin.com/feed/update/urn:li:activity:7368392385627684864?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC2L6ZcBR9Gx6d5yUzt9sZUfWRjki7w1oHI)
+- 🔗[**X-Post!**](https://x.com/_suvrajeet_/status/1962221265873506345)
+- 🔗[**Assignment Documentation**](https://lnkd.in/gg-REgaD)
+- 🔗[**Project GitHub Repo Link**](https://github.com/suvrajeetbanerjee/mini_finance)
+
+
+
+### ④ Week-3 
