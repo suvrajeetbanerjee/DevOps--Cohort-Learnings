@@ -36,4 +36,15 @@
 
 ### ④ Week-3 || DevOps LifeCycle
 
+- 🔗[**Blog Link — 🚀 DevOps Lifecycle Mastery: From Waterfall Chaos to CI/CD Symphony Week 3⚙️**](https://dev.to/suvrajeet/devops-lifecycle-5dgp)
+- 🔗[**Week3: Linkedin Post 1 — 🎉 Running a 5-Day Mini Sprint in Jira - Conquering Deadlines, Winning Deployments 🚀**](https://www.linkedin.com/feed/update/urn:li:activity:7371670859461271553/)
+- 🔗[**Week3: Linkedin Post 2 — 🎉 Gotto Job — Backlog Refinement & Sprint 1 in Jira (SOLO Mode) - 🏁 Conquering Epics, Winning Sprints! 🏁**](https://www.linkedin.com/feed/update/urn:li:activity:7372443781175889920/)
+- 🔗[**Week3: Linkedin Post 3 — 🚀 Week-3 Wrap-up : SDLC || DevOps || Agile || Jira || Scrum || CI/CD 🎯**](https://www.linkedin.com/feed/update/urn:li:activity:7373857085379457024/)
+- 🔗[**X-Post!**](https://x.com/_suvrajeet_/status/1966686433017467014)
+- 🔗[**Assignment Documentation**](https://lnkd.in/gnKsnx4n)
+<!-- - 🔗[**Project GitHub Repo Link**](https://github.com/suvrajeetbanerjee/mini_finance) -->
+
+### ⑤ Week-4 || AWS for DevOps
+
+
 
