@@ -46,10 +46,16 @@
 
 ### ⑤ Week-4 || AWS for DevOps
 
-- 🔗[**Blog Link — 🚀 Advancing into AWS Cloud Mastery: From Static Sites to Full-Stack Monoliths [Week-4-P1] ☁️**](https://dev.to/suvrajeet/aws-week-4-15h0)
+- 🔗[**Blog Post-1 Link — 🚀 Advancing into AWS Cloud Mastery: From Static Sites to Full-Stack Monoliths [Week-4-P1] ☁️**](https://dev.to/suvrajeet/aws-week-4-15h0)
 - 🔗[**Week4: Linkedin Post 1 — ☁️ Week 4: AWS Cloud for DevOps – Initiation 🚀**](https://www.linkedin.com/feed/update/urn:li:activity:7374242844275851264)
 - 🎥 [**Assignment-14 Demo Video URL 1**](https://lnkd.in/gRAg_hQY)
 - 🎥 [**Assignment-16 Demo Video URL 2**](https://lnkd.in/geJgQZyr)
+<!--
+- 🔗[**Week4: Linkedin Post 2 — **]()
+- 🔗[**Week4: Linkedin Post 3 — **]()
+- 🔗[**Blog Post-2 Link — **]()
+- 🔗[**Final X-Post!**]()
+--> 
 <!--
 - 🔗[**Week3: Linkedin Post 2 — 🎉 Gotto Job — Backlog Refinement & Sprint 1 in Jira (SOLO Mode) - 🏁 Conquering Epics, Winning Sprints! 🏁**](https://www.linkedin.com/feed/update/urn:li:activity:7372443781175889920/)
 - 🔗[**Week3: Linkedin Post 3 — 🚀 Week-3 Wrap-up : SDLC || DevOps || Agile || Jira || Scrum || CI/CD 🎯**](https://www.linkedin.com/feed/update/urn:li:activity:7373857085379457024/)
