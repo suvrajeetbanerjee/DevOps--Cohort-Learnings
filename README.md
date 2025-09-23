@@ -42,14 +42,27 @@
 - 🔗[**Week3: Linkedin Post 3 — 🚀 Week-3 Wrap-up : SDLC || DevOps || Agile || Jira || Scrum || CI/CD 🎯**](https://www.linkedin.com/feed/update/urn:li:activity:7373857085379457024/)
 - 🔗[**X-Post!**](https://x.com/_suvrajeet_/status/1966686433017467014)
 - 🔗[**Assignment Documentation**](https://lnkd.in/gnKsnx4n)
-<!-- - 🔗[**Project GitHub Repo Link**](https://github.com/suvrajeetbanerjee/mini_finance) -->
+- 🔗[**Project GitHub Repo Link**](https://github.com/suvrajeetbanerjee/mini_finance)
+  
 
 ### ⑤ Week-4 || AWS for DevOps
 
+
 - 🔗[**Blog Post-1 Link — 🚀 Advancing into AWS Cloud Mastery: From Static Sites to Full-Stack Monoliths [Week-4-P1] ☁️**](https://dev.to/suvrajeet/aws-week-4-15h0)
+- 🔗[**Blog Post-2 Link — 🏗️ Building Production-Ready Highly Available Architecture on AWS: From Single Instance to Enterprise Scale [Week-4-P2] ☁️🚀**](https://dev.to/suvrajeet/aws-week-4-p2-nj3)
+- 🎥 [**Assignment-14 Demo Video URL**](https://www.youtube.com/watch?v=Qb-eu7FVkJA)
+- 🎥 [**Assignment-16 Demo Video URL**](https://www.youtube.com/watch?v=vXj4RzUsOPk)
+- 🎥 [**Assignment-17 Demo Video URL**](https://www.youtube.com/watch?v=rDTZ0vo7zzg)
+- 🎥 [**Assignment-18 Demo Video URL**](https://www.youtube.com/watch?v=6ldYV8d-hLY)
 - 🔗[**Week4: Linkedin Post 1 — ☁️ Week 4: AWS Cloud for DevOps – Initiation 🚀**](https://www.linkedin.com/feed/update/urn:li:activity:7374242844275851264)
-- 🎥 [**Assignment-14 Demo Video URL 1**](https://lnkd.in/gRAg_hQY)
-- 🎥 [**Assignment-16 Demo Video URL 2**](https://lnkd.in/geJgQZyr)
+- 🔗[**Week4: Linkedin Post 2 — ☁️Week 4: AWS Cloud Infra. Mastery – Advanced Implementations 💡**](https://www.linkedin.com/feed/update/urn:li:activity:7376090192509665280/)
+- 🔗[**Week4: Linkedin Post 3 — ☁️ Week 4: Complete AWS Cloud Architecture – Enterprise Production Deployments 🚀**](https://www.linkedin.com/feed/update/urn:li:activity:7376212323587440640/)
+- 🔗[**X-Post!**](https://x.com/_suvrajeet_/status/1970431936335356397)
+- 🔗[**Assignment Documentation**](https://drive.google.com/file/d/18YeTyOYHLooVl7otoNlHzZ0kYN_bX1wZ/view?usp=drive_link)
+- 🔗[**Project GitHub Repo Link-1**](https://github.com/suvrajeetbanerjee/my-react-app)
+- 🔗[**Project GitHub Repo Link-2**](https://github.com/suvrajeetbanerjee/theepicbook)
+
+
 <!--
 - 🔗[**Week4: Linkedin Post 2 — **]()
 - 🔗[**Week4: Linkedin Post 3 — **]()
