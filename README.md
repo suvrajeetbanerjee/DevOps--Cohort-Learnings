@@ -47,7 +47,6 @@
 
 ### ⑤ Week-4 || AWS for DevOps
 
-
 - 🔗[**Blog Post-1 Link — 🚀 Advancing into AWS Cloud Mastery: From Static Sites to Full-Stack Monoliths [Week-4-P1] ☁️**](https://dev.to/suvrajeet/aws-week-4-15h0)
 - 🔗[**Blog Post-2 Link — 🏗️ Building Production-Ready Highly Available Architecture on AWS: From Single Instance to Enterprise Scale [Week-4-P2] ☁️🚀**](https://dev.to/suvrajeet/aws-week-4-p2-nj3)
 - 🎥 [**Assignment-14 Demo Video URL**](https://www.youtube.com/watch?v=Qb-eu7FVkJA)
@@ -62,6 +61,9 @@
 - 🔗[**Project GitHub Repo Link-1**](https://github.com/suvrajeetbanerjee/my-react-app)
 - 🔗[**Project GitHub Repo Link-2**](https://github.com/suvrajeetbanerjee/theepicbook)
 
+### ⑥ Week-5 || InfraStructure as Code (IaC) with AWS CLoudformation
+
+*Automating Infrastructure provisioning with AWS CloudFormation — Improving SDLC Process by Saving time through Automation*
 
 <!--
 - 🔗[**Week4: Linkedin Post 2 — **]()
