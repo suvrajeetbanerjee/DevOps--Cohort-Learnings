@@ -65,12 +65,11 @@
 
 *Automating Infrastructure provisioning with AWS CloudFormation — Improving SDLC Process by Saving time through Automation*
 
-<!--
-- 🔗[**Week4: Linkedin Post 2 — **]()
-- 🔗[**Week4: Linkedin Post 3 — **]()
-- 🔗[**Blog Post-2 Link — **]()
-- 🔗[**Final X-Post!**]()
---> 
+
+- 🔗[**Linkedin Post Link —**]()
+- 🔗[**Blog Post Link —**]()
+- 🔗[**X-Post!**]()
+
 <!--
 - 🔗[**Week3: Linkedin Post 2 — 🎉 Gotto Job — Backlog Refinement & Sprint 1 in Jira (SOLO Mode) - 🏁 Conquering Epics, Winning Sprints! 🏁**](https://www.linkedin.com/feed/update/urn:li:activity:7372443781175889920/)
 - 🔗[**Week3: Linkedin Post 3 — 🚀 Week-3 Wrap-up : SDLC || DevOps || Agile || Jira || Scrum || CI/CD 🎯**](https://www.linkedin.com/feed/update/urn:li:activity:7373857085379457024/)
