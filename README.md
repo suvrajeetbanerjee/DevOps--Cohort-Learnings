@@ -65,6 +65,28 @@
 
 *Automating Infrastructure provisioning with AWS CloudFormation — Improving SDLC Process by Saving time through Automation*
 
+```
+
+The Critical Importance of Foundational Knowledge When Using AI Assistants
+- Conversational AI tools such as Claude, ChatGPT, Grok, Perplexity, and Meta AI can be highly valuable assets—but only when used by individuals who possess a solid understanding of the underlying concepts relevant to their work.
+
+A Common Misconception:
+- There is a prevalent misconception that AI chatbots can serve as a substitute for conceptual knowledge, enabling users to solve complex problems without proper understanding. This assumption is fundamentally flawed. If you believe that AI assistants can help you bypass the learning process and achieve solutions without grasping the core concepts involved, you are setting yourself up for significant challenges.
+
+The Reality of Shortcuts:
+- Attempting to circumvent proper learning—whether through instructional videos or hands-on practice—may seem like a time-saving strategy. However, this approach is counterproductive. Without a foundational understanding of key concepts, you will inevitably spend considerably more time troubleshooting, debugging, and resolving errors. This creates a frustrating cycle: you become trapped in an endless loop of problem-solving without ever reaching your desired outcome, with mounting frustration as an unavoidable consequence.
+
+A Personal Example:
+- During my recent work provisioning infrastructure using AWS CloudFormation, I encountered numerous errors that directly resulted from inadequate conceptual understanding, including:
+
+- Incorrect AMI selection (using an Ubuntu image while implementing RHEL-based system commands), which caused target group health check failures
+Multiple deployment rollbacks due to configuration errors
+
+- These issues could have been prevented with proper foundational knowledge, ultimately demonstrating that investing time in learning core concepts is not optional—it's essential for efficient and successful implementation.
+
+💡 Key Takeaway: AI assistants are powerful amplifiers of existing knowledge, not replacements for it. Master the fundamentals first, then leverage AI to accelerate your productivity.
+
+```
 
 - 🔗[**Linkedin Post Link —**]()
 - 🔗[**Blog Post Link —**]()
