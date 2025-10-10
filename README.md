@@ -88,9 +88,10 @@ Multiple deployment rollbacks due to configuration errors
 
 ```
 
-- 🔗[**Linkedin Post Link —**]()
-- 🔗[**Blog Post Link —**]()
-- 🔗[**X-Post!**]()
+- 🔗[**Linkedin Post - 1**](https://www.linkedin.com/feed/update/urn:li:groupPost:3763996-7381483531715338240/)
+- 🔗[**Linkedin Post - 2**](https://www.linkedin.com/feed/update/urn:li:activity:7381891125122433024/)
+- 🔗[**Blog Post Link —**](https://dev.to/suvrajeet/infrastructure-as-code-iac-with-aws-cloudformation-week-5-3i66)
+<!-- - 🔗[**X-Post!**]() -->
 
 <!--
 - 🔗[**Week3: Linkedin Post 2 — 🎉 Gotto Job — Backlog Refinement & Sprint 1 in Jira (SOLO Mode) - 🏁 Conquering Epics, Winning Sprints! 🏁**](https://www.linkedin.com/feed/update/urn:li:activity:7372443781175889920/)
