@@ -91,6 +91,18 @@ Multiple deployment rollbacks due to configuration errors
 - 🔗[**Linkedin Post - 1**](https://www.linkedin.com/feed/update/urn:li:groupPost:3763996-7381483531715338240/)
 - 🔗[**Linkedin Post - 2**](https://www.linkedin.com/feed/update/urn:li:activity:7381891125122433024/)
 - 🔗[**Blog Post Link —**](https://dev.to/suvrajeet/infrastructure-as-code-iac-with-aws-cloudformation-week-5-3i66)
+- 🔗[**Assignment Documentation**](https://drive.google.com/file/d/19QxwY6D-t_jjWHCRWGrNz81GLuyRegPD/view?usp=drive_link)
+
+
+
+### ⑤ Week-6 || Azure for DevOps — Compute | Networking | Storage | Databases
+
+- 🔗[**Blog Post Link**]()
+- 🔗[**Linkedin Post**]()
+- 🔗[**Assignment Documentation**]()
+
+
+
 <!-- - 🔗[**X-Post!**]() -->
 
 <!--
