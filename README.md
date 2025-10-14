@@ -97,9 +97,10 @@ Multiple deployment rollbacks due to configuration errors
 
 ### ⑤ Week-6 || Azure for DevOps — Compute | Networking | Storage | Databases
 
-- 🔗[**Blog Post Link**]()
-- 🔗[**Linkedin Post**]()
-- 🔗[**Assignment Documentation**]()
+- 🔗[**Blog Post Link**](https://lnkd.in/gwBjHJjg)
+- 🔗[**Linkedin Post - 1**](https://www.linkedin.com/feed/update/urn:li:activity:7382586081826828289/)
+- 🔗[**Linkedin Post - 2**](https://www.linkedin.com/feed/update/urn:li:activity:7383791760012972032/)
+- 🔗[**Assignment Documentation**](https://drive.google.com/file/d/1UI0sFR4V78dMsDpfxjZ0g9CI33Da3kNi/view?usp=drive_link)
 - 🔗[**Demo Video URL**](https://youtu.be/-uFd_buloKQ)
 
 
