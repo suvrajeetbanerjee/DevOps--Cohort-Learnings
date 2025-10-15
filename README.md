@@ -104,6 +104,15 @@ Multiple deployment rollbacks due to configuration errors
 - 🔗[**Demo Video URL**](https://youtu.be/-uFd_buloKQ)
 
 
+### ⑤ Week-7 || Terraform IaC for DevOps
+
+- 🔗[**Blog Post Link**]()
+- 🔗[**Linkedin Post - 1**]()
+- 🔗[**Linkedin Post - 2**]()
+- 🔗[**Assignment Documentation**]()
+
+
+
 
 <!-- - 🔗[**X-Post!**]() -->
 
