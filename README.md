@@ -117,7 +117,7 @@ Multiple deployment rollbacks due to configuration errors
 - 🔗[**Linkedin Post - 1**]()
 - 🔗[**Linkedin Post - 2**]()
 - 🔗[**Assignment Documentation**]()
-- 
+
 <!-- ### ⑤ Week-7 || Terraform IaC for DevOps
 
 - 🔗[**Blog Post Link**]()
