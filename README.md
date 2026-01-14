@@ -125,6 +125,13 @@ Multiple deployment rollbacks due to configuration errors
 - 🔗[**Linkedin Post - 2**]()
 - 🔗[**Assignment Documentation**]()
 
+
+### Week-11 | K8s Internal Developer Platform - Internship Capstone Project 
+- [**Production-ready Kubernetes infrastructure platform on AWS**](https://github.com/suvrajeetbanerjee/kube-matrix#:~:text=README-,Kube,-Matrix%3A%20EKS%20%26%20Aurora)
+> My Contribution in this group Project = Designed & Implemented EKS Cluster on AWS
+
+
+
 <!-- ### ⑤ Week-7 || Terraform IaC for DevOps
 
 - 🔗[**Blog Post Link**]()
