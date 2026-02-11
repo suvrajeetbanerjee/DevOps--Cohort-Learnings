@@ -107,6 +107,8 @@ Multiple deployment rollbacks due to configuration errors
 ### Week-7
 - 🔗[**Blog Post Link P1**](https://dev.to/suvrajeet/mastering-infrastructure-as-code-from-manual-chaos-to-multi-cloud-orchestration-week-7-p1-4gdm)
 - 🔗[**Blog Post Link P2**](https://dev.to/suvrajeet/terraform-production-battle-tested-remote-state-workspaces-full-stack-aws-deployment-11b4)
+- 🔗[**Linkedin Post 1/2**](https://www.linkedin.com/feed/update/urn:li:activity:7392411086333030402)
+- 🔗[**Linkedin Post 2/2**](https://www.linkedin.com/feed/update/urn:li:activity:7392764085790175232)
 
 ### Week-8
 - 🔗[**Blog Post Link**](https://dev.to/suvrajeet/ansible-roles-unleashed-from-ad-hoc-automation-to-production-grade-cloud-deployments-week-8-41mc)
@@ -114,9 +116,9 @@ Multiple deployment rollbacks due to configuration errors
 ### Week-9
 
 - 🔗[**Blog Post Link**](https://dev.to/suvrajeet/from-chaos-to-orchestration-mastering-azure-devops-cicd-pipelines-week-9-461f)
-- 🔗[**Linkedin Post - 1**]()
+<!-- - 🔗[**Linkedin Post - 1**]()
 - 🔗[**Linkedin Post - 2**]()
-- 🔗[**Assignment Documentation**]()
+- 🔗[**Assignment Documentation**]() -->
 
 ### Week-10
 
