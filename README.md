@@ -112,10 +112,16 @@ Multiple deployment rollbacks due to configuration errors
 
 ### Week-8
 - 🔗[**Blog Post Link**](https://dev.to/suvrajeet/ansible-roles-unleashed-from-ad-hoc-automation-to-production-grade-cloud-deployments-week-8-41mc)
+- 🔗[**Linkedin Post 1/3**](https://www.linkedin.com/feed/update/urn:li:activity:7392997954506121216)
+- 🔗[**Linkedin Post 2/3**](https://www.linkedin.com/feed/update/urn:li:activity:7392999739912298496)
+- 🔗[**Linkedin Post 3/3**](https://www.linkedin.com/feed/update/urn:li:activity:7393006508780916736)
+
 
 ### Week-9
 
 - 🔗[**Blog Post Link**](https://dev.to/suvrajeet/from-chaos-to-orchestration-mastering-azure-devops-cicd-pipelines-week-9-461f)
+- 🔗[**Linkedin Post - 1/2**](https://www.linkedin.com/feed/update/urn:li:activity:7418920724691673088)
+- 🔗[**Linkedin Post - 2/2**](https://www.linkedin.com/feed/update/urn:li:activity:7418921170906918913)
 <!-- - 🔗[**Linkedin Post - 1**]()
 - 🔗[**Linkedin Post - 2**]()
 - 🔗[**Assignment Documentation**]() -->
@@ -123,9 +129,9 @@ Multiple deployment rollbacks due to configuration errors
 ### Week-10
 
 - 🔗[**Blog Post Link**](https://dev.to/suvrajeet/from-chaos-to-orchestration-mastering-docker-containerization-production-deployments-2k8j)
-- 🔗[**Linkedin Post - 1**]()
-- 🔗[**Linkedin Post - 2**]()
-- 🔗[**Assignment Documentation**]()
+- 🔗[**Linkedin Post - 1/2**](https://www.linkedin.com/feed/update/urn:li:activity:7418921821229731840)
+- 🔗[**Linkedin Post - 2/2**](https://www.linkedin.com/feed/update/urn:li:activity:7418922197265657856)
+<!-- - 🔗[**Assignment Documentation**]() -->
 
 
 ### Week-11 | K8s Internal Developer Platform - Internship Capstone Project 
