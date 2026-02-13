@@ -135,8 +135,8 @@ Multiple deployment rollbacks due to configuration errors
 
 
 ### Week-11 | K8s Internal Developer Platform - Internship Capstone Project 
-- [**Production-ready Kubernetes infrastructure platform on AWS**](https://github.com/suvrajeetbanerjee/kube-matrix#:~:text=README-,Kube,-Matrix%3A%20EKS%20%26%20Aurora)
-> My Contribution in this group Project = Designed & Implemented EKS Cluster on AWS
+- [**Production-ready Kubernetes infrastructure platform (K8s internal developer platform) on AWS**](https://github.com/suvrajeetbanerjee/kube-matrix#:~:text=README-,Kube,-Matrix%3A%20EKS%20%26%20Aurora)
+> My Contribution in this group Project = Designed & Implemented terraform mpodules automating provisioning EKS Cluster (with IAM Roles & Node Group) AND Aurora Serverless V2 SQL Server (with secrets stored on SSM on AWS for Kube Matrix (Kubernetes Internal Developer Platform)
 
 
 
