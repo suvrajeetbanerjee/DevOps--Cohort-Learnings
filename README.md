@@ -104,20 +104,20 @@ Multiple deployment rollbacks due to configuration errors
 - 🔗[**Demo Video URL**](https://youtu.be/-uFd_buloKQ)
 
 
-### Week-7
+### ⑦ Week-7
 - 🔗[**Blog Post Link P1**](https://dev.to/suvrajeet/mastering-infrastructure-as-code-from-manual-chaos-to-multi-cloud-orchestration-week-7-p1-4gdm)
 - 🔗[**Blog Post Link P2**](https://dev.to/suvrajeet/terraform-production-battle-tested-remote-state-workspaces-full-stack-aws-deployment-11b4)
 - 🔗[**Linkedin Post 1/2**](https://www.linkedin.com/feed/update/urn:li:activity:7392411086333030402)
 - 🔗[**Linkedin Post 2/2**](https://www.linkedin.com/feed/update/urn:li:activity:7392764085790175232)
 
-### Week-8
+### ⑧ Week-8
 - 🔗[**Blog Post Link**](https://dev.to/suvrajeet/ansible-roles-unleashed-from-ad-hoc-automation-to-production-grade-cloud-deployments-week-8-41mc)
 - 🔗[**Linkedin Post 1/3**](https://www.linkedin.com/feed/update/urn:li:activity:7392997954506121216)
 - 🔗[**Linkedin Post 2/3**](https://www.linkedin.com/feed/update/urn:li:activity:7392999739912298496)
 - 🔗[**Linkedin Post 3/3**](https://www.linkedin.com/feed/update/urn:li:activity:7393006508780916736)
 
 
-### Week-9
+### ⑨ Week-9
 
 - 🔗[**Blog Post Link**](https://dev.to/suvrajeet/from-chaos-to-orchestration-mastering-azure-devops-cicd-pipelines-week-9-461f)
 - 🔗[**Linkedin Post - 1/2**](https://www.linkedin.com/feed/update/urn:li:activity:7418920724691673088)
@@ -126,7 +126,7 @@ Multiple deployment rollbacks due to configuration errors
 - 🔗[**Linkedin Post - 2**]()
 - 🔗[**Assignment Documentation**]() -->
 
-### Week-10
+### ⑩ Week-10
 
 - 🔗[**Blog Post Link**](https://dev.to/suvrajeet/from-chaos-to-orchestration-mastering-docker-containerization-production-deployments-2k8j)
 - 🔗[**Linkedin Post - 1/2**](https://www.linkedin.com/feed/update/urn:li:activity:7418921821229731840)
@@ -134,7 +134,7 @@ Multiple deployment rollbacks due to configuration errors
 <!-- - 🔗[**Assignment Documentation**]() -->
 
 
-### Week-11 | K8s Internal Developer Platform - Internship Capstone Project 
+### ①① Week-11 | K8s Internal Developer Platform - Internship Capstone Project 
 - [**Production-ready Kubernetes infrastructure platform (K8s internal developer platform) on AWS**](https://github.com/suvrajeetbanerjee/kube-matrix#:~:text=README-,Kube,-Matrix%3A%20EKS%20%26%20Aurora)
 > My Contribution in this group Project = Designed & Implemented terraform mpodules automating provisioning EKS Cluster (with IAM Roles & Node Group) AND Aurora Serverless V2 SQL Server (with secrets stored on SSM on AWS for Kube Matrix (Kubernetes Internal Developer Platform)
 
